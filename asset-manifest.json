@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/booking_ticket_project/static/css/main.5f361e03.chunk.css",
+    "main.js": "/booking_ticket_project/static/js/main.9a143302.chunk.js",
+    "main.js.map": "/booking_ticket_project/static/js/main.9a143302.chunk.js.map",
+    "runtime-main.js": "/booking_ticket_project/static/js/runtime-main.bbf41ead.js",
+    "runtime-main.js.map": "/booking_ticket_project/static/js/runtime-main.bbf41ead.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/booking_ticket_project/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.ab8b443a.chunk.js": "/booking_ticket_project/static/js/2.ab8b443a.chunk.js",
+    "static/js/2.ab8b443a.chunk.js.map": "/booking_ticket_project/static/js/2.ab8b443a.chunk.js.map",
+    "index.html": "/booking_ticket_project/index.html",
+    "precache-manifest.c3d6b758acbc684cb60c36098d28bcda.js": "/booking_ticket_project/precache-manifest.c3d6b758acbc684cb60c36098d28bcda.js",
+    "service-worker.js": "/booking_ticket_project/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/booking_ticket_project/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/booking_ticket_project/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ab8b443a.chunk.js.LICENSE.txt": "/booking_ticket_project/static/js/2.ab8b443a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/booking_ticket_project/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbf41ead.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.ab8b443a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9a143302.chunk.js"
+  ]
+}
